@@ -1,0 +1,31 @@
+{
+	"name": "Simon",
+	"surname": "Bull",
+	"address": {
+		"nameOrNumber": "16",
+		"addressLine2": "Berkeley Avenue",
+		"addressLine3": "Bishopston",
+		"townCity": "Bristol",
+		"postCode": "BS7 8HH"
+	},
+	"dateOfBirth": "1986-07-10T06:05.000Z",
+	"likes": [
+		"Beer",
+		"Bouldering",
+		"Cars",
+		"Coding",
+		"Holidays"
+	],
+	"favouriteGames": [{
+		"name": "Fallout 4",
+		"platform": "xBox One"
+	}, {
+		"name": "Forza 6",
+		"platform": "xBox One"
+	}, {
+		"name": "Team Fortress 2",
+		"platform": "PC"
+	}],
+	"heightInCm": 180,
+	"UKShoeSize": 9.5
+}
